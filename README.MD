@@ -16,7 +16,7 @@ JAVASCRIPT, HTML, CSS
 ## Screenshots
 
 ![image](./Image/See_What_You_Type.png)
-[Live Preview]()
+[Live Preview](https://see-what-you-type-proj.netlify.app/)
 ***
 ## What i learn from this project
 - How to select element by dom.
